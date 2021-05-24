@@ -17,7 +17,7 @@ def main(argv=[]):
     )
 
     parser.add_argument("dragon", type=str, help="This is a positional argument.")
-    parser.add_argument("--freeza", type=int, help="fuga", default=530000)
+    parser.add_argument("--freeza", type=int, help="My combat power is 530000.", default=530000)
 
     parser.add_argument("-o", "--out", type=str, help="output")
 
