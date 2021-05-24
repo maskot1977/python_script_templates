@@ -1,7 +1,5 @@
 import argparse
 import os
-import argparse
-import os
 import sys
 from logging import DEBUG, basicConfig, getLogger
 
